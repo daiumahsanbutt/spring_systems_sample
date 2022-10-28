@@ -7,3 +7,10 @@ Application -> constants.php -> BASE_URL (constant) -> (TO THE URL THE WEBSITE W
 Application -> database.php -> UPDATE hostname, username, password and database name<br />
 
 Import spring_systems.sql file into mysql database
+
+Go to website URL:
+
+Login with the following information:
+
+admin
+Daium123!
