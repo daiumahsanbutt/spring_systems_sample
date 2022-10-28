@@ -6,11 +6,11 @@ Application -> config.php -> $config['base_url'] -> (TO THE URL THE WEBSITE WILL
 Application -> constants.php -> BASE_URL (constant) -> (TO THE URL THE WEBSITE WILL OPERATE ON)<br />
 Application -> database.php -> UPDATE hostname, username, password and database name<br />
 
-Import spring_systems.sql file into mysql database
+Import spring_systems.sql file into mysql database<br />
 
-Go to website URL:
+Go to website URL:<br />
 
-Login with the following information:
+Login with the following information:<br />
 
-admin
-Daium123!
+admin<br />
+Daium123!<br />
